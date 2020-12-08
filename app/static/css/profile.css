@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Chivo|Merienda+One&display=swap');
+.card-img-top {
+
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.card{
+    border: none;
+    color: #000;
+}
+
+/* .underline{
+    width: 200px;
+    height: 10px;
+    background-color: rgb(9, 255, 0);
+    margin: 0 auto;
+} */
+h1{
+    font-family: 'Alfa Slab One', cursive;
+}
