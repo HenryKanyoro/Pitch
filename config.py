@@ -5,7 +5,7 @@ class Config:
     General configuration parent class
     '''
     SECRET_KEY ='henry'
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:sokomoko@localhost/pitch'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:sokomoko@localhost/henry'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     UPLOADED_PHOTOS_DEST = 'app/static/photos'
 
